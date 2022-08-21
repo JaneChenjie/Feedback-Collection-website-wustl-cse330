@@ -15,9 +15,9 @@
 -	We tabulate feedback on the website. 
 -	User can see report of all survey responses.
 
-###Frameworks:
+### Frameworks:
 -	Use react-redux.
 -	Use express.
 -	Use MongoDB.
-###Note:
+### Note:
 -The stripe is in the test mode, so it will **not charge your money**. In the test mode, the credit card number is **4242 4242 4242 4242**. 
